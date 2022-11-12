@@ -170,7 +170,7 @@ img {
   list-style-type: none;
   display: flex;
   align-items: center;
-  transition: color var(--transition-dur-and-func) fill var(--transition-dur-and-func);
+  transition: color var(--transition-dur-and-func), fill var(--transition-dur-and-func);
   /* padding: 32px 0; */
 }
 
